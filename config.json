@@ -1,0 +1,4 @@
+{
+    "max_range_response": 1000,
+    "fsync": "default"
+}
